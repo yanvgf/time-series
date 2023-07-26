@@ -6,11 +6,11 @@ Neste repositório, serão adicionados os notebooks com os códigos e relatório
 
 ## Conceitos já estudados
 
-[x] Modelos baseline (preditores ingênuos)
-[x] Modelos Random Walk
-[ ] Modelos de Média Móvel (Moving Average - MA)
-[ ] Modelos Autoregressivos (Autoregressive - AR)
-[ ] Modelos ARMA
-[ ] Modelos ARIMA
-[ ] Modelos ARMAX/ARIMAX
-[ ] Modelos SARIMA/SARIMAX
+- [x] Modelos baseline (preditores ingênuos)
+- [x] Modelos Random Walk
+- [ ] Modelos de Média Móvel (Moving Average - MA)
+- [ ] Modelos Autoregressivos (Autoregressive - AR)
+- [ ] Modelos ARMA
+- [ ] Modelos ARIMA
+- [ ] Modelos ARMAX/ARIMAX
+- [ ] Modelos SARIMA/SARIMAX
